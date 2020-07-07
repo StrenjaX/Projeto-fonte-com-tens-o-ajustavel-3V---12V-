@@ -3,8 +3,9 @@ Trabalho 1.
 
 Materia: Eletronica para computação.
 Professor: Eduardo do Valle Simões.
+Aluno: Osni Brito de Jesus NUSP: 11857330
 
-Componentes
+
 | Componentes  |  Preço(R$)  |
 | ------------------- | ------------------- |
 |  [Diodo 1N4001](https://www.baudaeletronica.com.br/diodo-1n4001.html) |  4 x 0,14 |
