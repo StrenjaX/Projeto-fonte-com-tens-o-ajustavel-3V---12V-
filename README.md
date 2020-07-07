@@ -5,7 +5,9 @@ Materia: Eletronica para computação.
 
 Professor: Eduardo do Valle Simões.
 
-Aluno: Osni Brito de Jesus NUSP: 11857330.
+Aluno: Osni Brito de Jesus 
+
+NUSP: 11857330
 
 
 | Componentes  |  Preço(R$)  |
