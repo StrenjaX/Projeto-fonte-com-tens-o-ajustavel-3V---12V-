@@ -1,5 +1,7 @@
-# Projeto fonte com tensão ajustave (3V-12V)
-Trabalho 1.
+# Projeto fonte com tensão ajustavel (3V-12V)
+Trabalho 1 - Fonte
+
+O objetivo deste projeto é fazer uma fonte com uma apartir de uma tensão alternada tendo que ser ajustavel entre 3 e 12 volts, com capacidade de 100mA.
 
 Materia: Eletronica para computação.
 
