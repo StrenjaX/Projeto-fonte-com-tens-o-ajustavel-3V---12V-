@@ -33,3 +33,5 @@ NUSP: 11857330
  
 ## Projeto do EAGLE pronto para impressão na placa
  ![](circuito-PCB.png)
+ 
+ Explicação no youtube [aqui](https://youtu.be/MTpg-hGCXsI)
