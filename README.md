@@ -26,7 +26,7 @@ NUSP: 11857330
 
 ## Projeto no Falstad
  ![](circuito-falstad.png)
- link: http://tinyurl.com/y8d7o8y3
+ [link do circuito FALSTAD](http://tinyurl.com/ya34tdqr)
  
 ## Projeto no EAGLE
  ![](circuito-eagle.png)
@@ -34,4 +34,4 @@ NUSP: 11857330
 ## Projeto do EAGLE pronto para impressão na placa
  ![](circuito-PCB.png)
  
- Explicação no youtube [aqui](https://youtu.be/MTpg-hGCXsI)
+ [Explicação no youtube aqui](https://youtu.be/MTpg-hGCXsI)
