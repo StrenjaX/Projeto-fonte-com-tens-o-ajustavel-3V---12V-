@@ -15,6 +15,7 @@ NUSP: 11857330
 | Componentes  |  Preço(R$)  |
 | ------------------- | ------------------- |
 |  [Diodo 1N5404 (até 3A)](https://www.baudaeletronica.com.br/diodo-1n5404.html) |  4 x 0,36 |
+|  [Capacitor 470uf x 50V](https://www.eletrogate.com/capacitor-eletrolitico-470uf-x-50v?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gclid=EAIaIQobChMIwLCm0bbN6gIVjA6RCh1ObAOAEAkYASABEgJvCfD_BwE)  |  0,90 |
 |  [Resistor 2,2k (1/4W)](https://www.baudaeletronica.com.br/resistor-2k2-5-1-4w.html) |  2 x 0,08 |
 |  [Resistor 1,2k (1/4W)](https://www.baudaeletronica.com.br/resistor-1k2-5-1-4w.html) |  0,08 |
 |  [Diodo Zener 1N4743 [13V / 1W]](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html) |  0,20 |
