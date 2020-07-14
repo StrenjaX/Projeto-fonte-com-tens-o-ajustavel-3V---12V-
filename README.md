@@ -25,7 +25,7 @@ NUSP: 11857330
 | TOTAL |  R$ 31,73  |
 
 ## Projeto no Falstad
- ![](circuito-falstad.png)
+ ![](circuito-falstad1.png)
  [link do circuito FALSTAD](http://tinyurl.com/ya34tdqr)
  
 ## Projeto no EAGLE
